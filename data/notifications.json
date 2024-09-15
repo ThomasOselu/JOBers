@@ -1,0 +1,1 @@
+{"_id":{"$oid":"66e583bd49e205e8b72710be"},"user_id":{"$oid":"64e30d88352d5186be2710bf"},"type":"Job Alert","message":"New job posted that matches your skills.","date_sent":{"$date":"2024-09-08T15:00:00Z"},"read":false}

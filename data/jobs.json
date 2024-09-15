@@ -1,0 +1,1 @@
+{"_id":{"$oid":"66e5d6f58bb90e2be82710bc"},"title":"Software Engineer","description":"Develop and maintain web applications.","company":{"$oid":"60c72b2f9b7e8a2f8c8b4567"},"location":"San Francisco","salary":120000,"skills":[{"$oid":"60c72b2f9b7e8a2f8c8b4568"}],"postedDate":{"$date":"2024-09-14T18:33:25.64Z"},"applicationDeadline":{"$date":"2024-10-01T00:00:00Z"}}

@@ -1,0 +1,1 @@
+{"_id":{"$oid":"66e5d9308bb90e2be82710c1"},"name":"John Doe","email":"john.doe@example.com","password":"hashed_password","skills":[{"$oid":"60c72b2f9b7e8a2f8c8b4568"}],"profile":{"bio":"Software Developer based in Nairobi","location":"Nairobi"},"created_at":{"$date":"2024-09-14T18:42:56.331Z"},"updated_at":{"$date":"2024-09-14T18:42:56.331Z"}}

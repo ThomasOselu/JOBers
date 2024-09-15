@@ -1,0 +1,2 @@
+{"_id":{"$oid":"66e5d7788bb90e2be82710bd"},"name":"Tech Innovators Kenya","industry":"Technology","location":"Nairobi","founded":{"$date":"2010-05-01T00:00:00Z"},"size":"50-100 employees"}
+{"_id":{"$oid":"66e5d8058bb90e2be82710bf"},"name":"Tech Innovators Kenya","industry":"Technology","location":"Nairobi","founded":{"$date":"2010-05-01T00:00:00Z"},"size":"50-100 employees"}
