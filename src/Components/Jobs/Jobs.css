@@ -36,7 +36,7 @@
     width: 60px;
     margin-bottom: 10px;
 }
-.program:hover .caption{
+.program:hover .caption img{
     opacity: 1;
     padding-top: 0;
 }

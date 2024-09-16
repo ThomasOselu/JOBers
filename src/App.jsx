@@ -3,6 +3,8 @@ import Navbar from './Components/Navbar/Navbar'
 import Hero from './Components/Hero/Hero'
 import Jobs from './Components/Jobs/Jobs'
 import Title from './Components/Title/Title'
+import About from './Components/About/About'
+import Campus from './Components/Campus/Campus'
 
 const App = () => {
   return (
@@ -10,9 +12,12 @@ const App = () => {
       <Navbar/>
       <Hero/>
       <div className="container">
-        <Title/>
+        <Title subTitle='Jobs' title='What we offer'/>
         <Jobs/>
+        <About/>
+        <Campus/>
       </div>
+
     </div>
   )
 }
