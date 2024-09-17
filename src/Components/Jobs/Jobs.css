@@ -28,7 +28,7 @@
     flex-direction: column;
     color: #fff;
     cursor: pointer;
-    /*opacity: 0;*/
+    opacity: 0;
     padding: 40%;
     transition: 0.4s;
 }
@@ -36,7 +36,17 @@
     width: 60px;
     margin-bottom: 10px;
 }
-.program:hover .caption img{
+.Job:hover .caption img{
     opacity: 1;
     padding-top: 0;
+}
+/*-----media query---*/
+@media (max-width: 650px){
+    .Jobs{
+        flex-direction: column;
+    }
+    .Job{
+        flex-basis: 100%;
+        margin: 20px;
+    }
 }
