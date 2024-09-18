@@ -46,6 +46,11 @@ const Contact = () => {
                 <li><img src={phone_icon} alt="" />+254 793863437</li>
                 <li><img src={location_icon} alt="" />06901 Mwihoko Kenya</li>
             </ul>
+            <ul>
+              <li><img src={mail_icon} alt="" />clevelihasi@gmail.com</li>
+              <li><img src={phone_icon} alt="" />+254 716540840</li>
+              <li><img src={location_icon} alt="" />0001 Nairobi Kenya</li>
+            </ul>
         </div>
         <div className="contact-col">
             <form onSubmit={onSubmit}>

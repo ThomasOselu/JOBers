@@ -83,7 +83,7 @@ return (
                             <div className="user-info">
                                 <img src={user_4} alt="" />
                                 <div>
-                                    <h3>Thomas Oselu</h3>
+                                    <h3>Cleve Lihasi</h3>
                                     <span>xyz, kenya</span>
                                 </div>
                             </div>
